@@ -1,0 +1,327 @@
+body {
+	background-color: #FDFEFF;
+}
+.rojo {
+	color : #CC0000;
+	font-size : 11px;
+	font-family : Tahoma,Verdana,Arial;
+	font-weight: bold;
+}
+.negro {
+	color : #000000;
+	margin-top : 10px;
+	padding-bottom : 5px;
+	margin-bottom : 0px;
+	margin-left : 20px;
+	margin-right : 20px;
+	font-size : 11px;
+	font-family : Tahoma,Verdana,Arial;
+	font-weight: bold;
+}
+.blanco {
+
+	color : #FFFFFF;
+	margin-top : 10px;
+	padding-bottom : 5px;
+	margin-bottom : 0px;
+	margin-left : 20px;
+	margin-right : 20px;
+	font-size : 11px;
+	font-family : Tahoma,Verdana,Arial;
+	font-weight: bold;
+}
+.naranja {
+	color : #FF6633;
+	margin-top : 10px;
+	padding-bottom : 5px;
+	margin-bottom : 0px;
+	margin-left : 20px;
+	margin-right : 20px;
+	font-size : 11px;
+	font-family : Tahoma, Verdana, Arial;
+	font-weight: bold;
+	text-decoration: none;
+}
+a.naranja:hover {
+	color : #FF3333;
+	margin-top : 10px;
+	padding-bottom : 5px;
+	margin-bottom : 0px;
+	margin-left : 20px;
+	margin-right : 20px;
+	font-size : 11px;
+	font-family : Tahoma, Verdana, Arial;
+	font-weight: bold;
+	text-decoration: underline;
+}
+.letras {
+	color : #000000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	font-size: 11px;
+	text-decoration: none;
+}
+A.letras:hover {
+	color : #003366;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	font-size: 11px;
+	text-decoration: underline;
+}
+.letras2 {
+	color : #000000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	font-size: 12px;
+	text-decoration: none;
+}
+.boletin {
+	color : #859FBD;
+	font-family: "Courier New", Courier, monospace;
+	font-weight: normal;
+	font-size: 11px;
+	text-decoration: none;
+}
+A.boletin:hover {
+	color : #003366;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	font-size: 11px;
+	text-decoration: underline;
+}
+.azul {
+	color : #003366;
+	font-size : 11px;
+	font-family : Tahoma,Verdana,Arial;
+	font-weight: bold;
+    text-decoration: none;
+}
+A.azul:hover {
+	color : #006699;
+	font-size : 11px;
+	font-family : Tahoma,Verdana,Arial;
+	font-weight: bold;
+    text-decoration: underline;
+}
+.boton {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FFFFFF;
+	background-color: #003366;
+}
+.pie {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.derechoteca {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	color: #CCCCCC;
+	text-decoration: none;
+}
+.titulos {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	color: #98A7CD;
+	font-size: 16px;
+	font-weight: bold;
+	text-decoration: none;
+	text-align: center;
+	padding: 2px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #0099CC;
+}
+.titulos2 {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	color: #FF8080;
+	font-size: 16px;
+	font-weight: bold;
+	text-decoration: none;
+	text-align: right;
+}
+.subtitulos {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #000000;
+	font-size: 11px;
+	font-weight: bold;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #003366;
+}
+.subtitulos2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #000000;
+	font-size: 10px;
+	font-weight: bold;
+}
+.subtitulos3 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #030133;
+	text-decoration: none;
+	font-weight: bold;
+}
+.l_blanco {
+
+	color : #FFFFFF;
+	margin-top : 10px;
+	padding-bottom : 5px;
+	margin-bottom : 0px;
+	margin-left : 20px;
+	margin-right : 20px;
+	font-size : 11px;
+	font-family : Tahoma, Verdana, Arial;
+	font-weight: normal;
+}
+.fecha {
+
+	color : #CC6666;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	font-size: 10px;
+	text-decoration: none;
+}
+.consultas {
+
+
+	color : #B4775B;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 11px;
+	text-decoration: none;
+}
+.consultas2 {
+	color : #666666;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	font-size: 11px;
+	text-decoration: none;
+	background-color: #FFFFFF;
+	border: 1px solid #999999;
+}
+.p_subtit4 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: bold;
+}
+.integrantes {
+	color : #000000;
+	font-size : 16px;
+	font-family : Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	text-decoration: none;
+	text-align: right;
+	margin-right: 10px;
+	padding-right: 10px;
+}
+.integrantes2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #CC3333;
+	text-decoration: none;
+	background-color: #FFD9D9;
+	height: 20px;
+	width: 100%;
+	clear: left;
+	border: 1px dotted #CC3300;
+	vertical-align: middle;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}
+.mensaje {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #CC3333;
+	text-decoration: none;
+	background-color: #FFD9D9;
+	height: 20px;
+	width: 100%;
+	clear: left;
+	border: 1px dotted #CC3300;
+	vertical-align: middle;
+	margin: 0px;
+	padding: 4px;
+	text-align: center;
+}
+TABLE.t_tabla {
+	margin: 0px;
+	padding: 0px;
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #CCCCCC;
+	border-bottom-color: #CCCCCC;
+	border-right-color: #CCCCCC;
+}
+TABLE.t_tabla TBODY TD.t_1
+{
+	text-decoration: none;
+	border-right-width: 1px;
+	border-right-style: dotted;
+	border-right-color: #EEEEEE;
+	padding: 4px;
+}
+TABLE.t_consultas {
+	margin: 0px;
+	padding: 0px;
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #CCCCCC;
+	border-right-width: 1px;
+	border-right-style: dotted;
+	border-right-color: #CCCCCC;
+}
+TABLE.t_boletin {
+	margin: 0px;
+	padding: 0px;
+	background-color: #F1F5F8;
+}
+TABLE.t_boletin TBODY TD.t_bol
+{
+	margin: 4px;
+	padding: 4px;
+	text-decoration: none;
+	height: auto;
+	width: auto;
+	float: left;
+}
+TABLE.p_cuadro5 {
+	margin: 0px;
+	padding: 2px;
+	width: 158px;
+	border: 1px solid #000000;
+	background-color: #FFFFFF;
+}
+TABLE.fotos {
+	margin: 0px;
+	padding: 2px;
+	width: auto;
+	border: 1px solid #000000;
+	background-color: #FFFFFF;
+}
+TABLE.direccion {
+	margin: 0px;
+	padding: 2px;
+	width: 182px;
+	background-color: #FFFFFF;
+	border-left-width: 1px;
+	border-left-style: dotted;
+	border-left-color: #999999;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-top-style: dotted;
+	border-right-style: dotted;
+	border-top-color: #999999;
+	border-right-color: #999999;
+}
+#lateral{
+	float:right;
+}

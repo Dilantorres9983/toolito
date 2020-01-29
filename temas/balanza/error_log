@@ -1,0 +1,3 @@
+[15-May-2011 20:01:12] PHP Warning:  include_once(globals.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/abogaec/public_html/cetid/temas/balanza/contenido.php on line 3
+[15-May-2011 20:01:12] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'globals.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/abogaec/public_html/cetid/temas/balanza/contenido.php on line 3
+[15-May-2011 20:01:12] PHP Fatal error:  Call to undefined function  connect() in /home/abogaec/public_html/cetid/temas/balanza/contenido.php on line 20
